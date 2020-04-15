@@ -8,7 +8,7 @@
 
 **2.** `pkg install python -y`
 
-**3.** `git clone https://github.com/MuhamadFajarGaray/termux-button button`
+**3.** `git clone https://github.com/MuhamadFajarGaray/termux-advance-button button`
 
 **4.** `cd button`
  
